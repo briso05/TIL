@@ -19,3 +19,5 @@
 - **TIL 작성시 참고**
     - 사용할 마크다운 언어는 [GitHub Flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github), [ansohxxn님의 Markdown 문법 총정리](https://ansohxxn.github.io/blog/markdown/) 참고
     - 마크다운에 사용할 이모지는 [Markdown Emoji](https://doozi316.github.io/markdown/2020/08/10/MD2/) 참고
+    - Atom을 마크다운 에디터로 사용하기 위한 세팅은 [futureCreator](https://futurecreator.github.io/2016/06/14/atom-as-markdown-editor/)님, [tikepjt](https://tikepjt.tistory.com/47)님의 블로그글 참고
+      - :red_circle: `Ctrl + Shift + M` : Markdown Preview Short-cut in ATOM
